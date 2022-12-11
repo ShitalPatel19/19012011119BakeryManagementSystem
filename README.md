@@ -17,7 +17,7 @@ ex. Het Patel
 ex. [@HetPatel](https://twitter.com/dompizzie)
 
 ex. Shital Patel
-ex. [@ShitalPatel]()
+ex. [@ShitalPatel](https://github.com/ShitalPatel19)
 
 ## Version History
 
