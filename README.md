@@ -13,8 +13,8 @@
 
 Contributors names and contact info
 
-ex. [@HetPatel](https://twitter.com/dompizzie)<br>
-ex. [@ShitalPatel](https://github.com/ShitalPatel19)
+ex. [HetPatel](https://github.com/Hetpatel4699)<br>
+ex. [ShitalPatel](https://github.com/ShitalPatel19)
 
 ## Version History
 
